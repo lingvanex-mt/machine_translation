@@ -88,6 +88,19 @@ Options:
 * `translateMode`: Describe the input text format. Possible value is "html" for translating and preserving html structure. If the value is not specified or is other than "html" then plain text is translating.
 * `enableTransliteration`: If true response includes sourceTransliteration and targetTransliteration fields.
 
+# Why Choose Lingvanex?
+﻿With seven years of experience, Lingvanex prioritizes quality and innovation. Here are some of the key features that define our company:
+ 
+Consistent Technical Support. Our group of specialists are available to assist you with any problems or questions you may have. This ensures that your translation requests are handled efficiently, saving you time and effort.
+
+Ongoing Model Training. Lingvanex is committed to continuous improvement. We frequently update and improve our translation models using the latest technology. This constant development results in more accurate translations.
+
+Skilled Professionals. Our linguists aren't only multilingual, but also have specialized cultural knowledge. This knowledge ensures that technical terms, nuances and cultural context are reflected in our translations.
+
+Feedback system. We actively collect feedback from our users, which plays a crucial role in improving our services. With this, we can make changes when training models that will meet their needs and preferences.
+
+Advanced machine learning technology. Using advanced machine learning algorithms and an extensive database allows us to make our translations accurate not only linguistically, but also context-aware. 
+
 
 # Issues
 If you are having problems using the library, please [contact](https://lingvanex.com/en/contact-us/) us.

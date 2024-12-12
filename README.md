@@ -1,3 +1,5 @@
+# Machine Translation
+
 Language translation stands out as one of the most intricate human tasks for machines to master, yet it holds immense potential to unite the world as one global community. With our project, we aim to contribute to the evolution of machine translation, moving toward a future where technology seamlessly bridges language barriers. 
 
 Our goal is to integrate the current state-of-the-art into a single, user-friendly product that evolves continuously, remaining open to harnessing the latest advancements in machine intelligence, including deep learning. To realize our vision, we seek to develop superior machine translation technology that can extract deeper insights from data, adapt to various contexts, and offer easy deployment options. 

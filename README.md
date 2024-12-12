@@ -1,3 +1,4 @@
+![Наш продукт](1716284680461.jpg)
 # Machine Translation
 
 Language translation stands out as one of the most intricate human tasks for machines to master, yet it holds immense potential to unite the world as one global community. With our project, we aim to contribute to the evolution of machine translation, moving toward a future where technology seamlessly bridges language barriers. 

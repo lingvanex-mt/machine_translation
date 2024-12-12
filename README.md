@@ -11,6 +11,14 @@ Speech Recognition: The company offers a self-hosted speech recognition software
 
 # Your first translation with Lingvanex
 
+Discover the Power of Lingvanex Translator Service
+
+Unlock the potential of your applications with Lingvanex Translator, a cutting-edge cloud-based neural machine translation service. Compatible with any operating system, free translation api Python Lingvanex enables the creation of intelligent, multi-lingual solutions for all supported languages. Whether you are looking for a python translation API, or need to translate text efficiently, Lingvanex offers a powerful solution for developers.
+
+With Lingvanex, you can effortlessly translate both text and HTML pages, enhancing your global reach and communication capabilities. Our free translation API for Python allows you to start integrating translation functionality into your projects quickly and easily. Additionally, our python library for translation ensures smooth integration with minimal setup. You can also explore a specialized python language translation library, making it easy to build language tools.
+
+Explore the capabilities of the [Lingvanex Cloud API](https://lingvanex.com/en/translationapi/) and learn more about our [Secure On-Premise Machine Translation](https://lingvanex.com/). This versatile tool provides developers with a **python library to translate text**, offering a robust way to handle translations in your application. For those seeking a free python translation API, Lingvanex offers solutions that meet all levels of demand.
+
 # Installation
 You can install the library with PyPI using pip:
 
@@ -83,5 +91,3 @@ Options:
 
 # Issues
 If you are having problems using the library, please [contact](https://lingvanex.com/en/contact-us/) us.
-
-
